@@ -1,0 +1,10 @@
+C:\Users\Gamer\source\repos\MinecraftNetherLaskin\MinecraftNetherLaskin\bin\Debug\MinecraftNetherLaskin.exe.config
+C:\Users\Gamer\source\repos\MinecraftNetherLaskin\MinecraftNetherLaskin\bin\Debug\MinecraftNetherLaskin.exe
+C:\Users\Gamer\source\repos\MinecraftNetherLaskin\MinecraftNetherLaskin\bin\Debug\MinecraftNetherLaskin.pdb
+C:\Users\Gamer\source\repos\MinecraftNetherLaskin\MinecraftNetherLaskin\obj\Debug\MinecraftNetherLaskin.csprojAssemblyReference.cache
+C:\Users\Gamer\source\repos\MinecraftNetherLaskin\MinecraftNetherLaskin\obj\Debug\MinecraftNetherLaskin.Form1.resources
+C:\Users\Gamer\source\repos\MinecraftNetherLaskin\MinecraftNetherLaskin\obj\Debug\MinecraftNetherLaskin.Properties.Resources.resources
+C:\Users\Gamer\source\repos\MinecraftNetherLaskin\MinecraftNetherLaskin\obj\Debug\MinecraftNetherLaskin.csproj.GenerateResource.cache
+C:\Users\Gamer\source\repos\MinecraftNetherLaskin\MinecraftNetherLaskin\obj\Debug\MinecraftNetherLaskin.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\MinecraftNetherLaskin\MinecraftNetherLaskin\obj\Debug\MinecraftNetherLaskin.exe
+C:\Users\Gamer\source\repos\MinecraftNetherLaskin\MinecraftNetherLaskin\obj\Debug\MinecraftNetherLaskin.pdb
